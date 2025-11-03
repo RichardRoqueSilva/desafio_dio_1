@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimeraAppDIO</string>
+    <string name="saudacao_inicial">Esta es la primera aplicación de %1$s!</string>
+</resources>

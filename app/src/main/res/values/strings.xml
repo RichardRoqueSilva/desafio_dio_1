@@ -1,0 +1,4 @@
+<resources>
+<string name="app_name">MeuPrimeiroAppDIO</string>
+<string name="saudacao_inicial">Esse é o primeiro aplicativo do %1$s!</string>
+</resources>
